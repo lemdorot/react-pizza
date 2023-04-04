@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.410bd7b2.css",
-    "main.js": "/static/js/main.f9c3fee2.js",
-    "Cart.js": "/static/js/Cart.e547e838.chunk.js",
-    "FullPizza.js": "/static/js/FullPizza.96e3ba4d.chunk.js",
-    "NotFound.js": "/static/js/NotFound.36312dfb.chunk.js",
-    "static/media/empty-cart.png": "/static/media/empty-cart.db905d1f4b063162f25b.png",
-    "static/media/pizza-logo.svg": "/static/media/pizza-logo.56ac87032d8f6fdf863326acd06c0d97.svg",
-    "index.html": "/index.html",
-    "main.410bd7b2.css.map": "/static/css/main.410bd7b2.css.map",
-    "main.f9c3fee2.js.map": "/static/js/main.f9c3fee2.js.map",
-    "Cart.e547e838.chunk.js.map": "/static/js/Cart.e547e838.chunk.js.map",
-    "FullPizza.96e3ba4d.chunk.js.map": "/static/js/FullPizza.96e3ba4d.chunk.js.map",
-    "NotFound.36312dfb.chunk.js.map": "/static/js/NotFound.36312dfb.chunk.js.map"
+    "main.css": "/react-pizza/static/css/main.410bd7b2.css",
+    "main.js": "/react-pizza/static/js/main.ed4f7dc2.js",
+    "Cart.js": "/react-pizza/static/js/Cart.e547e838.chunk.js",
+    "FullPizza.js": "/react-pizza/static/js/FullPizza.96e3ba4d.chunk.js",
+    "NotFound.js": "/react-pizza/static/js/NotFound.36312dfb.chunk.js",
+    "static/media/empty-cart.png": "/react-pizza/static/media/empty-cart.db905d1f4b063162f25b.png",
+    "static/media/pizza-logo.svg": "/react-pizza/static/media/pizza-logo.56ac87032d8f6fdf863326acd06c0d97.svg",
+    "index.html": "/react-pizza/index.html",
+    "main.410bd7b2.css.map": "/react-pizza/static/css/main.410bd7b2.css.map",
+    "main.ed4f7dc2.js.map": "/react-pizza/static/js/main.ed4f7dc2.js.map",
+    "Cart.e547e838.chunk.js.map": "/react-pizza/static/js/Cart.e547e838.chunk.js.map",
+    "FullPizza.96e3ba4d.chunk.js.map": "/react-pizza/static/js/FullPizza.96e3ba4d.chunk.js.map",
+    "NotFound.36312dfb.chunk.js.map": "/react-pizza/static/js/NotFound.36312dfb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.410bd7b2.css",
-    "static/js/main.f9c3fee2.js"
+    "static/js/main.ed4f7dc2.js"
   ]
 }
